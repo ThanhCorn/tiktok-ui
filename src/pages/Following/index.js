@@ -1,5 +1,5 @@
-function Home() {
-    return <h2>Home Page</h2>
+function Following() {
+    return <h2>Following Pagedsadfas fsadfsad</h2>
 }
 
-export default Home;
+export default Following;
