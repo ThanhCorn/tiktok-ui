@@ -27,6 +27,12 @@
 .title + .icon {
     margin-left: 8px;
 }
+
+.icon {
+    display: inline-block;
+    width: 30px;
+    text-align: center;
+}
 // Button types
 
 .rounded {
